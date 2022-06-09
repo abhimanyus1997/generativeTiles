@@ -1,0 +1,17 @@
+canvas {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.152);
+}
+
+.p5Canvas{
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
