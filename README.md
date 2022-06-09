@@ -5,3 +5,6 @@ Use it as
  - Wallpaper
  - Generative NFTs
  - Profile Pic
+
+
+[Try Demo](https://abhimanyus1997.github.io/generativeTiles/)
